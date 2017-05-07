@@ -1,3 +1,3 @@
-#!/bin/bas
+#!/bin/bash
 
 echo "Hello world" # comment
