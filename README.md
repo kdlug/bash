@@ -68,3 +68,13 @@ if [ "$docker" != "0" ]; then
 0 - success
 1 - general errors such as "divide by zero" and other impermissible operations
 ```
+
+## Show steps which are done using check/cross mark
+
+```bash
+echo -e '\u2718' # check mark
+echo -e '\u2714' # cross mark
+
+echo -e '\u2717' # heavy check mark
+echo -e '\u2713' # heavy cross mark
+```
